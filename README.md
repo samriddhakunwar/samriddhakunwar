@@ -50,7 +50,7 @@ I'm a passionate developer committed to creating elegant, efficient, and impactf
 I'd love to connect and collaborate! Feel free to reach out:
 
 - 📧 Email: kunwarsamriddha@gmail.com
-- 💼 LinkedIn: [Samriddha Kunwar]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/samriddha-kunwar-26467b30a/))
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/samriddha-kunwar-26467b30a/)
 - 🌐 Portfolio: [Your Website](https://yourwebsite.com)
 
 ---
